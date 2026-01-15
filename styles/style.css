@@ -113,6 +113,7 @@
         flex-direction: column-reverse;
         background-position: top;
         align-items: center;
+        background-size:257px 257px;
     }
     .banner-details{
         width: 100%;
@@ -124,5 +125,10 @@
         font-size: 1.75rem;
         text-align: center;
     }
+    .banner-image>img{
+        width: 200px;
+        height: 190px;
+    }
+
 
 }
